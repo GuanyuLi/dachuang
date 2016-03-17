@@ -2,27 +2,27 @@
     "type": "force",
     "categories": [
         {
-            "name": "HTMLElement",
+            "name": "旅行",
             "keyword": {},
             "base": "HTMLElement"
         },
         {
-            "name": "WebGL",
+            "name": "娱乐",
             "keyword": {},
             "base": "WebGLRenderingContext"
         },
         {
-            "name": "SVG",
+            "name": "经济",
             "keyword": {},
             "base": "SVGElement"
         },
         {
-            "name": "CSS",
+            "name": "手机",
             "keyword": {},
             "base": "CSSRule"
         },
         {
-            "name": "Other",
+            "name": "情感",
             "keyword": {}
         }
     ],
